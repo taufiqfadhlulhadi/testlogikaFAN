@@ -1,0 +1,10 @@
+D:\Visual Studio Project\test logika FAN\test logika FAN\bin\Debug\test logika FAN.exe.config
+D:\Visual Studio Project\test logika FAN\test logika FAN\bin\Debug\test logika FAN.exe
+D:\Visual Studio Project\test logika FAN\test logika FAN\bin\Debug\test logika FAN.pdb
+D:\Visual Studio Project\test logika FAN\test logika FAN\obj\Debug\test logika FAN.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\test logika FAN\test logika FAN\obj\Debug\test_logika_FAN.Form1.resources
+D:\Visual Studio Project\test logika FAN\test logika FAN\obj\Debug\test_logika_FAN.Properties.Resources.resources
+D:\Visual Studio Project\test logika FAN\test logika FAN\obj\Debug\test logika FAN.csproj.GenerateResource.Cache
+D:\Visual Studio Project\test logika FAN\test logika FAN\obj\Debug\test logika FAN.exe
+D:\Visual Studio Project\test logika FAN\test logika FAN\obj\Debug\test logika FAN.pdb
+D:\Visual Studio Project\test logika FAN\test logika FAN\obj\Debug\test_logika_FAN.soal2.resources
